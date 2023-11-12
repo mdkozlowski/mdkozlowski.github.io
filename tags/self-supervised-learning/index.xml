@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>self-supervised-learning on marcinkoz.dev</title><link>https://www.marcinkoz.dev/tags/self-supervised-learning/</link><description>marcinkoz.dev (self-supervised-learning)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.marcinkoz.dev/tags/self-supervised-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>Representation Learning #1 - Simple Categorical Embeddings</title><link>https://www.marcinkoz.dev/post/metric-learning-1/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><guid>https://www.marcinkoz.dev/post/metric-learning-1/</guid><description>&lt;p>Inline math: $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$&lt;/p></description></item></channel></rss>

@@ -1,50 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Anubis</title>
-    <link>https://www.marcinkoz.dev/post/</link>
-    <description>Anubis (Posts)</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate>
-    
-    <atom:link href="https://www.marcinkoz.dev/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://www.marcinkoz.dev/post/test/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.marcinkoz.dev/post/test/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
-&lt;p&gt;In this example we will be using &lt;a href=&#34;https://katex.org/&#34;&gt;KaTeX&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Create a partial under &lt;code&gt;/layouts/partials/math.html&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Within this partial reference the &lt;a href=&#34;https://katex.org/docs/autorender.html&#34;&gt;Auto-render Extension&lt;/a&gt; or host these scripts locally.&lt;/li&gt;
-&lt;li&gt;Include the partial in your templates like so:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{ if or .Params.math .Site.Params.math }}
-{{ partial &amp;#34;math.html&amp;#34; . }}
-{{ end }}
-&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
-&lt;li&gt;To enable KaTex globally set the parameter &lt;code&gt;math&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in a project&amp;rsquo;s configuration&lt;/li&gt;
-&lt;li&gt;To enable KaTex on a per page basis include the parameter &lt;code&gt;math: true&lt;/code&gt; in content files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Use the online reference of &lt;a href=&#34;https://katex.org/docs/supported.html&#34;&gt;Supported TeX Functions&lt;/a&gt;
-&lt;/p&gt;
-&lt;h3 id=&#34;examples&#34; &gt;Examples
-&lt;span&gt;
-    &lt;a href=&#34;#examples&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;Inline math: $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on marcinkoz.dev</title><link>https://www.marcinkoz.dev/post/</link><description>marcinkoz.dev (Posts)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.marcinkoz.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Representation Learning #1 - Simple Categorical Embeddings</title><link>https://www.marcinkoz.dev/post/metric-learning-1/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><guid>https://www.marcinkoz.dev/post/metric-learning-1/</guid><description>&lt;p>Inline math: $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
 \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
-$$&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+$$&lt;/p></description></item></channel></rss>
