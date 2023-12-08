@@ -1,5 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>marcinkoz.dev</title><link>https://www.marcinkoz.dev/</link><description>marcinkoz.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.marcinkoz.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Representation Learning #1 - Simple Categorical Embeddings</title><link>https://www.marcinkoz.dev/post/metric-learning-1/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><guid>https://www.marcinkoz.dev/post/metric-learning-1/</guid><description>&lt;p>Inline math: $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>marcinkoz.dev</title><link>https://www.marcinkoz.dev/</link><description>marcinkoz.dev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.marcinkoz.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Self-Supervised Learning 2</title><link>https://www.marcinkoz.dev/post/ssl-taxonomy2/</link><pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate><guid>https://www.marcinkoz.dev/post/ssl-taxonomy2/</guid><description>&lt;p>Hello hello&lt;/p>
+&lt;p>Hello test&lt;/p>
+&lt;h1 id="ch1" >ch1
+&lt;span>
+&lt;a href="#ch1">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h1>&lt;p>Inline math: $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$&lt;/p>
 &lt;p>Block math:&lt;/p>
 &lt;p>$$
 \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
-$$&lt;/p></description></item><item><title>About subpage</title><link>https://www.marcinkoz.dev/about/subpage/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://www.marcinkoz.dev/about/subpage/</guid><description>&lt;p>About subpage&lt;/p></description></item><item><title>About</title><link>https://www.marcinkoz.dev/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.marcinkoz.dev/about/</guid><description>&lt;p>&lt;a href="https://github.com/mdkozlowski">https://github.com/mdkozlowski&lt;/a>&lt;/p></description></item></channel></rss>
+$$&lt;/p></description></item><item><title>Self-Supervised Learning: a taxonomy</title><link>https://www.marcinkoz.dev/post/ssl-taxonomy/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><guid>https://www.marcinkoz.dev/post/ssl-taxonomy/</guid><description>&lt;p>Hello hello&lt;/p>
+&lt;p>Hello test&lt;/p>
+&lt;p>Inline math: $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }&lt;/p>
+&lt;h1 id="ch2" >ch2
+&lt;span>
+&lt;a href="#ch2">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h1>&lt;p>Block math:
+Block math:&lt;/p>
+&lt;p>\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } Block math:&lt;/p>
+&lt;p>\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } Block math:&lt;/p>
+&lt;p>\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } Block math:&lt;/p>
+&lt;p>\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } Block math:&lt;/p>
+&lt;p>\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } Block math:&lt;/p>
+&lt;p>\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }&lt;/p></description></item><item><title>About subpage</title><link>https://www.marcinkoz.dev/about/subpage/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://www.marcinkoz.dev/about/subpage/</guid><description>&lt;p>About subpage&lt;/p></description></item><item><title>About</title><link>https://www.marcinkoz.dev/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.marcinkoz.dev/about/</guid><description>&lt;p>&lt;a href="https://github.com/mdkozlowski">https://github.com/mdkozlowski&lt;/a>&lt;/p></description></item></channel></rss>
